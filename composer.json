@@ -1,0 +1,13 @@
+{
+    "name": "dzy-china/common_action",
+    "description": "php common_action",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "dzy",
+            "email": "1129881228@qq.com"
+        }
+    ],
+    "require": {}
+} 
